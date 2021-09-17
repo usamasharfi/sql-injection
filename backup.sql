@@ -1,5 +1,5 @@
 -- Create database
---DROP DATABASE IF EXISTS `zgdeeecaxb`;
+DROP DATABASE IF EXISTS `zgdeeecaxb`;
 CREATE DATABASE IF NOT EXISTS `zgdeeecaxb` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `zgdeeecaxb`;
 
@@ -17,15 +17,16 @@ CREATE TABLE IF NOT EXISTS `users` (
 DELETE FROM `users`;
 INSERT INTO `users` (`id`, `username`, `password`) VALUES 
 (1, 'admin', 'pwd1'),
-(2, 'danilo', 'gasd12'),
-(3, 'filippo', 'postuy666'),
-(4, 'oreste', 'tmrchio82'),
-(5, 'luca', 'kd2jam'),
+(2, 'ali', 'pass123'),
+(3, 'ahmed', 'killabee'),
+(4, 'sidra', 'tmrchio82'),
+(5, 'sofia', 'kd2jam'),
 (6, 'dario', '31lowrem'),
-(7, 'sebastiano', '4muniz4'),
-(8, 'antonio', 'ciuppi75'),
-(9, 'cristina', 'berfectqui2'),
+(7, 'afaq', '4muniz4'),
+(8, 'anushka', 'ciuppi75'),
+(9, 'jason', 'berfectqui2'),
 (10, 'jessica', 'ioryunzfrunz');
+
 
 
 -- Create `books` table

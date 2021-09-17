@@ -46,16 +46,16 @@
             </ul>
           </li>
         </ul>
-        <h3 class="text-muted"><a href="index.php">SQL-Injection Demo</a></h3>
+        <h3 class="text-muted"><a href="index.php">SQL-Injection</a></h3>
       </div>
       <?php include("mobile-navbar.php"); ?>
 
       <div class="jumbotron">
         <h1>SQL Injection</h1>
         <h2>Demonstration Project</h2>
-        <h3>The code of this demo is available at:</h3>
-        <h2 class="hidden-xs"><a href="https://github.com/ShinDarth/sql-injection-demo">github.com/ShinDarth/sql-injection-demo</a></h2>
-        <p class="lead visible-xs"><a href="https://github.com/ShinDarth/sql-injection-demo">github.com/ShinDarth/sql-injection-demo</a></p>
+        <h3>The code of this demo is available </h3>
+        <h2 class="hidden-xs"><a href="https://github.com/usamasharfi/sql-injection">here</a></h2>
+        <p class="lead visible-xs"><a href="https://github.com/usamasharfi/sql-injection">here</a></p>
       </div>
 
       <?php include("footer.php"); ?>
